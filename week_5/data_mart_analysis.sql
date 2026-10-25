@@ -403,3 +403,29 @@ ORDER BY pct_sales_change;
 -- Existing			|10168877642			|10117367239		|-51510403		|-0.51
 -- Guest			|7630353739				|7595150744			|-35202995		|-0.46
 -- New				|2606990480				|2624894383			|17903903		|0.69
+
+-- Insights:
+-- * The sales frop is almost entirely driven by the Retail platform. Online sales via Shopify
+-- remained resilient (and also showed slight growth).
+-- The reason this is the case may be that the in-person shopper rely heavily on familiar packaging
+-- and so changing the package would have caused the decline in sales due to 
+-- impulse of habit-driven purchases decrease.
+
+-- * In terms of customer types, the largest drop occurred among Existing Customers and specific age bands
+-- who have ingrained buying habits.
+-- New customers have no baseline for comparison, so their conversion remains unaffected. Existing customers
+-- require clear communication so they don't mistake a new eco-friendly packaging for a different product or
+-- a drop in product quality.
+
+-- * The difference in the initial 4-week window and 12-week window shows that the negative impact persisted,
+-- This infers that customer adoption habits take time before they stabilize.
+
+-- Recommendations:
+-- * Launch clear messaging on retail shelves and end-cap displays to reassure habitual shoppers during packaging
+-- transisitions.
+
+-- * When redesigning the package, keep key visual brand identifiers, such as logo placement, core brand colours, 
+-- typography, highly visible on eco-friendly packaging so shelf recognition remains seamless.
+
+-- * Perform a strategic phased regional rollout as to avoid simultaneous global updates. It is better to test updates
+-- by region or a limited number of stores in the region to see if the strategy is successful.
